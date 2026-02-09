@@ -47,3 +47,4 @@ Edit `src/lib/industries.ts` to add new industry configurations with:
 - TypeScript
 - Tailwind CSS v4
 - Claude API (Anthropic SDK)
+- Deployed on Vercel
